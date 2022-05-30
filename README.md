@@ -1,5 +1,4 @@
-# Module_3_Challenge
-
+# Password_Generator
 Project created for the University of Toronto bootcamp May 19, 2022 as part of the Module_3 Challenge.
 
 
